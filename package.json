@@ -28,6 +28,6 @@
     "url": "http://github.com/casetext/pegjs-import.git"
   },
   "bin": {
-    "pegjs-import": "bin/pegjs-import"
+    "pegjs-import": "./bin/pegjs-import.js"
   }
 }
