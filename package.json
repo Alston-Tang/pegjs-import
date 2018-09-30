@@ -26,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/casetext/pegjs-import.git"
+  },
+  "bin": {
+    "pegjs-import": "bin/pegjs-import"
   }
 }
